@@ -23,7 +23,7 @@ fi
 $list_cmd | SHOW_PREFIX="$show_prefix" perl -0 -CSD -ne '
   chomp; my $f = $_;
   if ($f =~ /\p{Cyrillic}/) { print "Blocked: Cyrillic in file name: $f\n"; $bad = 1; next }
-  next if $f =~ /\.(png|jpe?g|gif|webp|svg|pdf|zip|tiff?|ico)$/i;   # images and binaries
+  next if $f =~ /\.(png|jpe?g|gif|webp|pdf|zip|tiff?|ico)$/i;   # images and binaries
   my $text = `git show "$ENV{SHOW_PREFIX}$f" 2>/dev/null`;
   next if $text =~ /\0/;                                            # other binary files
   my $n = 0;
