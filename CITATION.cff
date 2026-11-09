@@ -5,9 +5,9 @@ type: book
 authors:
   - family-names: Gayanova
     given-names: Elvira
+    orcid: "https://orcid.org/0009-0002-4252-311X"
 license: CC-BY-4.0
 repository-code: "https://github.com/ElviraGD-lab/field-to-code-remote-sensing"
-date-released: 2026-11-08
 keywords:
   - remote sensing
   - Sentinel-2

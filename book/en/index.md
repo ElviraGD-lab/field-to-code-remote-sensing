@@ -1,11 +1,9 @@
 ---
-title: Remote Sensing from Scratch
+title: "From Field to Code: Remote Sensing from Scratch"
 ---
 
-In April 2026 a wildfire burned the Sierra de Leirosa, between Allande and Tineo (Asturias, Spain). Three public sources give three different burnt areas. How much really burned? How sure can we be? For how long does a satellite still "see" the fire?
+Work with real satellite images and learn to think like an engineer.
 
-This book answers those questions step by step, with Sentinel-2 images, free platforms and one day of field work. You do not need to know remote sensing, physics or programming: everything is explained the first time it appears, including the mistakes.
+This book follows a single real problem from start to finish: a 2026 wildfire in the mountains of Asturias, studied using Sentinel-2 imagery. Along the way you'll learn to find, read and analyse satellite images, but above all you'll see how an engineer thinks: how to frame the question, choose the data and the method, check every step and know when a result can be trusted.
 
-:::{note} In preparation
-The first chapter will be published in November 2026.
-:::
+*Work in progress. Chapters are published as they are written.*

@@ -1,12 +1,14 @@
 ---
-title: From Field to Code · Remote Sensing from Scratch
+title: "From Field to Code: Remote Sensing from Scratch"
 ---
 
-**Del campo al código: teledetección desde cero**
+**Del campo al código: teledetección desde cero** — trabaja con imágenes de satélite reales y aprende a pensar como ingeniero.
 
-Un libro abierto para aprender teledetección desde cero con un proyecto real: un incendio de 2026 en Asturias, estudiado con imágenes Sentinel-2.
-
-An open book to learn remote sensing from scratch through one real project: a 2026 wildfire in Asturias, studied with Sentinel-2 images.
+**From Field to Code: Remote Sensing from Scratch** – work with real satellite images and learn to think like an engineer.
 
 - [Leer en español](es/index.md)
 - [Read in English](en/index.md)
+
+Libro 2 de la serie *From Field to Code* · Book 2 of the *From Field to Code* series.
+
+Texto: CC BY 4.0 · Código: Apache-2.0 · Text: CC BY 4.0 · Code: Apache-2.0
