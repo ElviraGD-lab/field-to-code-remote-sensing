@@ -1,0 +1,35 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: field-to-code-remote-sensing
+  title: "From Field to Code: Remote Sensing from Scratch"
+  subtitle: "Del campo al código: teledetección desde cero"
+  description: >-
+    An open book that teaches remote sensing from scratch through one real
+    project: mapping and studying a 2026 wildfire in Asturias (Spain) with
+    Sentinel-2. Spanish and English.
+  keywords:
+    - remote sensing
+    - teledetección
+    - Sentinel-2
+    - wildfire
+    - burnt area
+    - Asturias
+  authors:
+    - name: Elvira Gayanova
+  license:
+    content: CC-BY-4.0
+    code: Apache-2.0
+  github: https://github.com/ElviraGD-lab/field-to-code-remote-sensing
+  toc:
+    - file: index.md
+    - title: Español
+      children:
+        - file: es/index.md
+    - title: English
+      children:
+        - file: en/index.md
+site:
+  template: book-theme
+  options:
+    logo_text: From Field to Code

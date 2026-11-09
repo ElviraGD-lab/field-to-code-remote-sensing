@@ -1,0 +1,30 @@
+# System
+.DS_Store
+
+# MyST build output
+_build/
+node_modules/
+
+# Satellite data and large rasters: never in git, they are downloaded again
+data/
+*.SAFE/
+*.zip
+*.tif
+*.tiff
+*.jp2
+*.nc
+
+# Python (used only in a few chapters)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# QGIS backups
+*.qgs~
+*.qgz~
+
+# Secrets
+.env
+
+# Russian drafts never go to this repository
+*.ru.md
