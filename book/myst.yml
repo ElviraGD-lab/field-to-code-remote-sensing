@@ -28,10 +28,14 @@ project:
       children:
         - file: es/index.md
         - file: es/00-prologue.md
+        - file: es/01-three-figures.md
+        - file: es/02-thinking-like-an-engineer.md
     - title: English
       children:
         - file: en/index.md
         - file: en/00-prologue.md
+        - file: en/01-three-figures.md
+        - file: en/02-thinking-like-an-engineer.md
 site:
   template: book-theme
   options:
