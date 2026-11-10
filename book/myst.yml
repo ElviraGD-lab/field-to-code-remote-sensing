@@ -31,6 +31,7 @@ project:
     - title: English
       children:
         - file: en/index.md
+        - file: en/00-prologue.md
 site:
   template: book-theme
   options:
