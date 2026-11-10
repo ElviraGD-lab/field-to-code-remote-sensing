@@ -6,7 +6,7 @@ title: "Prólogo. Cuando arde el monte"
 
 El 6 de abril de 2026 hacía calor en Asturias: más de 30 grados y viento del sur. En un solo día se declararon 26 incendios[^1].
 
-Nos quedamos con el mayor. Ardió junto a la aldea de Bustantigo, en el concejo de Allande, en el límite con Tineo[^2]. Es una parroquia de montaña donde viven 18 personas. Allí las laderas suben desde el río Navia, a 110 metros, hasta la cima del Panchón, a 1411 metros[^3].
+Nos quedamos con el mayor. Ardió junto a la aldea de Bustantigo, en el concejo de Allande, en el límite con Tineo[^2]. Es una parroquia de montaña donde viven 18 personas[^3].
 
 No ardió bosque. Casi el 99 % de la superficie quemada es matorral abierto: brezo, tojo y pasto[^4].
 

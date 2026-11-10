@@ -6,7 +6,7 @@ title: "Prologue: When the mountain burns"
 
 On 6 April 2026 it was hot in Asturias – over 30 degrees – and a southerly wind was blowing. Within 24 hours, 26 fires broke out.[^1]
 
-We'll take the largest of them. It burned near the hamlet of Bustantigo in the municipality of Allande, on the border with Tineo.[^2] This is a mountain parish with 18 inhabitants. Its slopes climb from the River Navia, at 110 metres, to the summit of Panchón, at 1,411 metres.[^3]
+We'll take the largest of them. It burned near the hamlet of Bustantigo in the municipality of Allande, on the border with Tineo.[^2] This is a mountain parish with 18 inhabitants.[^3]
 
 It wasn't forest that burned. Almost 99% of the burnt area was open heathland: heather, gorse and grass.[^4]
 
