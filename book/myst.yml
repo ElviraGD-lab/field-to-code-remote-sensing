@@ -31,7 +31,7 @@ project:
         - file: es/01-three-figures.md
         - file: es/02-thinking-like-an-engineer.md
         - file: es/03-what-a-satellite-sees.md
-        - file: es/04-finding-the-image/index.md
+        - file: es/04-finding-the-image/00-finding-the-image.md
           children:
             - file: es/04-finding-the-image/01-searching.md
             - file: es/04-finding-the-image/02-choosing.md
@@ -42,7 +42,7 @@ project:
         - file: en/01-three-figures.md
         - file: en/02-thinking-like-an-engineer.md
         - file: en/03-what-a-satellite-sees.md
-        - file: en/04-finding-the-image/index.md
+        - file: en/04-finding-the-image/00-finding-the-image.md
           children:
             - file: en/04-finding-the-image/01-searching.md
             - file: en/04-finding-the-image/02-choosing.md
