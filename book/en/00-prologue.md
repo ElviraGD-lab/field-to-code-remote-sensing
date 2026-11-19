@@ -4,7 +4,7 @@ title: "Prologue: When the mountain burns"
 
 ## What happened on 6 April 2026
 
-On 6 April 2026 it was hot in Asturias – over 30 degrees – and a southerly wind was blowing. Within 24 hours, 26 fires broke out.[^1]
+On 6 April 2026 it was hot in Asturias – over 30 degrees – and a southerly wind was blowing. By the next day, Asturias had 26 fires at once.[^1]
 
 We'll take the largest of them. It burned near the hamlet of Bustantigo in the municipality of Allande, on the border with Tineo.[^2] This is a mountain parish with 18 inhabitants.[^3]
 
