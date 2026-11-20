@@ -233,7 +233,7 @@ TCI holds a picture for the eye, not measurements. Its values are squeezed into 
 
 ## The open question
 
-We know where band B12 lives and what its file is called. But what's actually written in each pixel? It isn't yet a reflectance between 0 and 1: it's a whole number. What that number is, and how to convert it into reflectance, we'll find out in Lesson 5.2, when we open the band in QGIS.
+We know where band B12 lives and what its file is called. But what's actually written in each pixel? It isn't yet a reflectance between 0 and 1: it's a whole number. What that number is, and how to convert it into reflectance, we'll find out in Lesson 5.2, when we open the band in SNAP.
 
 ---
 

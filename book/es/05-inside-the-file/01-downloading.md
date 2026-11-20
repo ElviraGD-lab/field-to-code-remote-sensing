@@ -233,7 +233,7 @@ El 8 de abril es la imagen de «después» de reserva. El 20 de abril hace falta
 
 ## La pregunta que queda abierta
 
-Ya sabemos dónde está la banda B12 y cómo se llama su archivo. Pero ¿qué hay guardado en cada píxel? Todavía no es una reflectancia entre 0 y 1, sino un número entero. Qué número es y cómo se convierte en reflectancia lo veremos en la lección 5.2, cuando abramos la banda en QGIS.
+Ya sabemos dónde está la banda B12 y cómo se llama su archivo. Pero ¿qué hay guardado en cada píxel? Todavía no es una reflectancia entre 0 y 1, sino un número entero. Qué número es y cómo se convierte en reflectancia lo veremos en la lección 5.2, cuando abramos la banda en SNAP.
 
 ---
 
