@@ -54,7 +54,7 @@ It's long, but a measurement can answer it, and the answer can be checked.
 
 We build the second question the same way:
 
-**Q2. How does the trace of a fire on Sentinel-2 images change from the first clear image after the fire until November 2026, for five fires in Asturian mountain heathland between February and April, and how much of that change is explained by changes in how the slopes are lit rather than by regrowing vegetation?**
+**Q2. How does the trace of a fire on Sentinel-2 images change from the first clear image after the fire until November 2026, for seven fires in Asturian mountain heathland between February and April, and how much of that change is explained by changes in how the slopes are lit rather than by regrowing vegetation?**
 
 ## Step 2: What we know and what we don't
 

@@ -54,7 +54,7 @@ El problema no es que las cifras no coincidan. El problema es que ninguna lleva 
 
 El satélite no ve el fuego. Mide la luz que refleja el suelo. Una ladera quemada refleja la luz de forma distinta a una ladera viva, y por esa diferencia encontramos el área quemada.
 
-Pero en la montaña, la cantidad de luz depende de hacia dónde mira la ladera y de lo alto que esté el sol. El satélite Sentinel-2 toma imágenes de Asturias hacia mediodía. Esta es la luz directa que recibe la superficie en ese momento, donde 1 es el sol justo en perpendicular y 0 es la luz rozando la ladera[^10]:
+Pero en la montaña, la cantidad de luz depende de hacia dónde mira la ladera y de lo alto que esté el sol. El satélite Sentinel-2 toma imágenes de Asturias a media mañana, en hora solar. Esta es la luz directa que recibe la superficie en ese momento, donde 1 es el sol justo en perpendicular y 0 es la luz rozando la ladera[^10]:
 
 | Fecha | Altura del sol | Terreno llano | Ladera norte de 25° | Ladera sur de 25° |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ Pero no hemos encontrado ningún trabajo que, para incendios de primavera en mat
 Vamos a responder a dos preguntas:
 
 1. **Cuánto ardió en Bustantigo**, con su margen de error, y cuánto depende esa cifra de la iluminación de las laderas.
-2. **Con qué rapidez desaparece la huella del incendio en las imágenes** y qué parte de esa desaparición es solo luz y no hierba rebrotada. Lo comprobaremos en el incendio de Bustantigo y en otros cuatro incendios de esa misma primavera.
+2. **Con qué rapidez desaparece la huella del incendio en las imágenes** y qué parte de esa desaparición es solo luz y no hierba rebrotada. Lo comprobaremos en el incendio de Bustantigo y en otros seis incendios de esa misma primavera.
 
-Trabajaremos con imágenes abiertas de Sentinel-2, en Copernicus Browser y QGIS.
+Trabajaremos con imágenes abiertas de Sentinel-2, en Copernicus Browser, SNAP, QGIS y Google Earth Engine.
 
 Cada resultado lo comprobaremos de tres maneras:
 
@@ -103,7 +103,7 @@ Cada resultado lo comprobaremos de tres maneras:
 
 - nada sobre cuánto dañó el fuego el suelo: para eso hacen falta mediciones sobre el terreno justo después del incendio, y no las hay;
 - nada sobre las causas de los incendios;
-- nada sobre los incendios en general: cinco incendios de una primavera siguen siendo cinco incendios.
+- nada sobre los incendios en general: siete incendios de una primavera siguen siendo siete incendios.
 
 Cualquier respuesta será un resultado, incluso «la luz y la hierba no se pueden separar».
 

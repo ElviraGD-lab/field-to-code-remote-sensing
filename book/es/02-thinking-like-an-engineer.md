@@ -54,7 +54,7 @@ Es larga, pero se puede responder midiendo, y la respuesta se puede comprobar.
 
 La segunda pregunta la construimos igual:
 
-**P2. ¿Cómo cambia la huella del incendio en las imágenes de Sentinel-2, desde la primera imagen despejada después del incendio hasta noviembre de 2026, en cinco incendios de febrero a abril en matorrales de montaña de Asturias, y qué parte de ese cambio se explica por el cambio de iluminación de las laderas y no por el rebrote de la vegetación?**
+**P2. ¿Cómo cambia la huella del incendio en las imágenes de Sentinel-2, desde la primera imagen despejada después del incendio hasta noviembre de 2026, en siete incendios de febrero a abril en matorrales de montaña de Asturias, y qué parte de ese cambio se explica por el cambio de iluminación de las laderas y no por el rebrote de la vegetación?**
 
 ## Paso 2. Qué sabemos y qué no
 

@@ -284,7 +284,7 @@ Las dos apenas reflejan luz en ninguna de las tres bandas asignadas. Se distingu
 4. Dos imágenes se tomaron el 10 de marzo y el 8 de abril. ¿Por qué el sol está distinto en cada una, si el satélite pasa a la misma hora?
 
 :::{dropdown} Respuesta
-Porque la hora del día es la misma, pero la época del año no. En un mes, el sol del mediodía sube más, así que las laderas reciben la luz de otra manera.
+Porque la hora del día es la misma, pero la época del año no. En un mes, el sol a esa hora sube más, así que las laderas reciben la luz de otra manera.
 :::
 
 5. El satélite pasó 12 veces sobre el incendio en un mes, pero solo hay 2 imágenes despejadas. ¿Es un error del catálogo?

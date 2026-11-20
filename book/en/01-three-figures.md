@@ -125,7 +125,7 @@ We'll look at why this happens in Chapter 3. For now, one thing is enough: livin
 
 ### What else we can see
 
-The SWIR image also shows other small reddish-brown patches, for example lower down, near Cangas del Narcea. They're probably traces of other fires from the same spring. We'll check that later, when we look for the other four fires.
+The SWIR image also shows other small reddish-brown patches, for example lower down, near Cangas del Narcea. They're probably traces of other fires from the same spring. We'll check that later, when we look for the other six fires.
 
 The second screenshot shows the Wildfires visualisation. It highlights active flames: fire is very hot and glows strongly in the shortwave infrared. By 8 April the fire is already out, so there's nothing to highlight, and the picture looks like natural colour. This layer is only useful while a fire is still burning.
 

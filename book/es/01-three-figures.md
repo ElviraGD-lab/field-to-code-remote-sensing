@@ -125,7 +125,7 @@ Por qué ocurre lo veremos en el capítulo 3. De momento basta con una idea: las
 
 ### Qué más se ve
 
-En la imagen SWIR hay otras manchas pequeñas de color marrón rojizo, por ejemplo más abajo, cerca de Cangas del Narcea. Lo más probable es que sean huellas de otros incendios de esa misma primavera. Lo comprobaremos más adelante, cuando busquemos los otros cuatro incendios.
+En la imagen SWIR hay otras manchas pequeñas de color marrón rojizo, por ejemplo más abajo, cerca de Cangas del Narcea. Lo más probable es que sean huellas de otros incendios de esa misma primavera. Lo comprobaremos más adelante, cuando busquemos los otros seis incendios.
 
 En la segunda captura está abierta la visualización Wildfires. Resalta las llamas activas: el fuego está muy caliente y brilla mucho en el infrarrojo de onda corta. El 8 de abril el incendio ya está apagado, así que no hay nada que resaltar y la imagen se parece a la de color natural. Esta capa solo sirve mientras el incendio sigue activo.
 

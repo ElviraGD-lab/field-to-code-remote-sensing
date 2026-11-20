@@ -54,7 +54,7 @@ The problem isn't that the figures differ. The problem is that none of them come
 
 A satellite doesn't see fire. It measures the light reflected by the ground. A burnt slope reflects light differently from a living one, and that difference is how we find the burn scar.
 
-But in the mountains, the amount of light depends on which way a slope faces and how high the sun is. Sentinel-2 images Asturias at around midday. Here's how much direct light the surface gets at that moment, where 1 means the sun is exactly perpendicular to it and 0 means the light is just grazing the slope:[^10]
+But in the mountains, the amount of light depends on which way a slope faces and how high the sun is. Sentinel-2 images Asturias in the middle of the morning, local solar time. Here's how much direct light the surface gets at that moment, where 1 means the sun is exactly perpendicular to it and 0 means the light is just grazing the slope:[^10]
 
 | Date | Sun elevation | Flat ground | North slope, 25° | South slope, 25° |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ But we haven't found any study that, for spring fires in mountain heathland, sep
 We'll answer two questions:
 
 1. **How much burned at Bustantigo** – with an uncertainty, and how far that figure depends on how the slopes are lit.
-2. **How quickly the trace of the fire fades from the images**, and how much of that fading is just light rather than regrowing grass. We'll test this on the Bustantigo fire and on four more fires from the same spring.
+2. **How quickly the trace of the fire fades from the images**, and how much of that fading is just light rather than regrowing grass. We'll test this on the Bustantigo fire and on six more fires from the same spring.
 
-We'll work with open Sentinel-2 images, in Copernicus Browser and QGIS.
+We'll work with open Sentinel-2 images, in Copernicus Browser, SNAP, QGIS and Google Earth Engine.
 
 We'll check every result in three ways:
 
@@ -103,7 +103,7 @@ We'll check every result in three ways:
 
 - anything about how badly the fire damaged the soil: that would need measurements on the ground straight after the fire, and there aren't any;
 - anything about the causes of the fires;
-- anything about fires in general: five fires from one spring are still just five fires.
+- anything about fires in general: seven fires from one spring are still just seven fires.
 
 Any answer will be a result – even the answer 'light and grass can't be separated'.
 

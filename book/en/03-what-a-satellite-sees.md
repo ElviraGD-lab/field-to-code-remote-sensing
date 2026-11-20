@@ -284,7 +284,7 @@ Both reflect almost no light in all three bands shown. We can tell them apart by
 4. Two images were taken on 10 March and 8 April. Why is the sun in a different position on them, even though the satellite passes over at the same time?
 
 :::{dropdown} Answer
-Because the time of day is the same, but the time of year is different. Over a month the midday sun climbs higher, so the slopes are lit differently.
+Because the time of day is the same, but the time of year is different. Over a month the sun at that hour climbs higher, so the slopes are lit differently.
 :::
 
 5. The satellite passed over the fire 12 times in a month, but there are only 2 clear images. Is that a mistake in the catalogue?
