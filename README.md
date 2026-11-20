@@ -6,11 +6,15 @@ Learn remote sensing the way an engineer works: start with a real question about
 
 Book 2 of the *From Field to Code* series. Written in Spanish and English.
 
+**Read the book:** https://elviragd-lab.github.io/field-to-code-remote-sensing/
+
+**The series:** https://elviragd-lab.github.io
+
 > Status: work in progress (started November 2026).
 
 ## The question
 
-In April 2026 a wildfire burned the Sierra de Leirosa, between Allande and Tineo (Asturias, Spain). Three public sources give three different burnt areas. How much really burned, how sure can we be, and how long does a satellite still "see" the fire?
+On 6 April 2026 a wildfire burned the hills near Bustantigo, between Allande and Tineo (Asturias, Spain). Three public sources give three different burnt areas. How much really burned, how sure can we be, and how long does a satellite still "see" the fire?
 
 We answer it step by step with Sentinel-2 images, free platforms and one day of field work. No previous knowledge of remote sensing, physics or programming is needed: everything is explained when it is first used, including the dead ends.
 
