@@ -231,6 +231,8 @@ El 8 de abril es la imagen de «después» de reserva. El 20 de abril hace falta
 2. Corregir: en el nombre de archivo `T29TPJ_20260403T112109_B12_10m.jp2` hay un error. ¿Cuál?
 3. Repaso de la lección 4.2: ¿por qué no usamos la capa Scene classification como máscara de nubes sobre nuestra zona quemada?
 
+Las respuestas están en la página [Soluciones](../solutions.md).
+
 ## La pregunta que queda abierta
 
 Ya sabemos dónde está la banda B12 y cómo se llama su archivo. Pero ¿qué hay guardado en cada píxel? Todavía no es una reflectancia entre 0 y 1, sino un número entero. Qué número es y cómo se convierte en reflectancia lo veremos en la lección 5.2, cuando abramos la banda en SNAP.

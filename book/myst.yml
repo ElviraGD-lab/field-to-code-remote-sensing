@@ -38,6 +38,8 @@ project:
         - file: es/05-inside-the-file/00-inside-the-file.md
           children:
             - file: es/05-inside-the-file/01-downloading.md
+            - file: es/05-inside-the-file/02-opening-in-snap.md
+        - file: es/solutions.md
     - title: English
       children:
         - file: en/index.md
@@ -52,6 +54,8 @@ project:
         - file: en/05-inside-the-file/00-inside-the-file.md
           children:
             - file: en/05-inside-the-file/01-downloading.md
+            - file: en/05-inside-the-file/02-opening-in-snap.md
+        - file: en/solutions.md
 site:
   template: book-theme
   options:

@@ -231,6 +231,8 @@ TCI holds a picture for the eye, not measurements. Its values are squeezed into 
 2. Fix it: there's one mistake in the file name `T29TPJ_20260403T112109_B12_10m.jp2`. What is it?
 3. One lesson back (4.2): why didn't we use the Scene classification layer as a cloud mask over our burn scar?
 
+The answers are on the [Solutions](../solutions.md) page.
+
 ## The open question
 
 We know where band B12 lives and what its file is called. But what's actually written in each pixel? It isn't yet a reflectance between 0 and 1: it's a whole number. What that number is, and how to convert it into reflectance, we'll find out in Lesson 5.2, when we open the band in SNAP.
