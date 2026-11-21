@@ -43,6 +43,7 @@ Pixels burnt in another fire in 2023–2025 are excluded from anniversary baseli
 | Negative control (Q2) | unburnt control: corrected change around 0 at all dates (\|median\| < 0.05) |
 | Autumn check (Q2) | at dates whose illumination equals the pre-fire image (mid-September to mid-October), corrected and raw curves agree within their spread |
 | Placebo fire (Q2) | same computation on unburnt areas with the same slopes: corrected change around 0 at all dates |
+| Processing-level check (Q1, added 21 Nov 2026) | burnt area from an L1C-only computation (both bands from L1C) lies inside the 95% confidence interval of the L2A estimate; otherwise the difference is reported and explained, not tuned |
 
 ## What counts as a result
 
@@ -54,4 +55,4 @@ No field severity data straight after the fire (we study the spectral trace, not
 
 ## Changes
 
-None yet.
+**21 November 2026 — processing-level check added (before any computation).** Reason: in lesson 5.3 the same pixel of the 3 April 2026 image (lat 43.3468, lon −6.6746) gave, top of atmosphere (L1C) against bottom of atmosphere (L2A), B2 0.1213 → 0.0848 and B12 0.166 → 0.198. The B12 increase cannot come from atmospheric scattering; together with the visibly flattened slope shading in L2A it shows that the Sen2Cor terrain correction changes values on our slopes by an amount comparable to the atmospheric correction. Change: Q1 is computed a second time with both bands taken from L1C (top-of-atmosphere reflectance, no atmospheric or terrain correction), as a sensitivity check of the result to the L2A corrections. Bands from different processing levels are never mixed in one index. The main analysis stays on L2A; the criterion is in the Checks table.
