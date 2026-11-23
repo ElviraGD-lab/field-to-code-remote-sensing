@@ -8,6 +8,8 @@ Version 1, 19 November 2026. Image selection criteria were recorded on 10 Novemb
 
 **Q2.** How does the spectral trace of fires of February–April 2026 in the mountain heathlands of Asturias change from the first clear post-fire image until November 2026, and what part of that change is explained by the seasonal change of slope illumination rather than by vegetation regrowth?
 
+**Q3 (added 23 November 2026, before any computation).** How much does the Sen2Cor terrain correction change surface reflectance and burn indices on these mountain slopes, how does the change depend on slope illumination (cos i), and is there over-correction on poorly lit slopes?
+
 ## Fires
 
 All EFFIS burnt areas in Asturias with a start date between 1 February and 30 April 2026 and an area of at least 200 ha (EFFIS burnt areas API, retrieved 19 November 2026): 7 fires — Allande (Bustantigo, 700 ha, main fire), Salas (437 ha), Cangas del Narcea (341 ha), Onís (250 ha), Peñamellera Alta (229 ha), Belmonte de Miranda (219 ha), Cabrales (201 ha). A fire without at least four clear post-fire observations is reported but not analysed, with the reason.
@@ -32,6 +34,8 @@ All EFFIS burnt areas in Asturias with a start date between 1 February and 30 Ap
 
 Pixels burnt in another fire in 2023–2025 are excluded from anniversary baselines; the 2017 burn overlaps 44% of the 2026 Bustantigo burn and is recorded as fire history.
 
+**Q3.** On the pre-fire image (3 April 2026, L1C and L2A of the same acquisition) and on the post-fire image: per illumination class of cos i (computed from a DEM and the sun angles in `MTD_TL.xml`), the ratio L2A/L1C for B8A and B12 and the difference NBR(L2A) − NBR(L1C), in unburnt heath, burnt area and invariant surfaces (rock, roads). Expected without over-correction: the same cover gives the same L2A reflectance in every illumination class. Over-correction is reported if, for the same cover, L2A reflectance in the lowest illumination class exceeds that on near-flat terrain by more than the spread between near-flat pixels. This also quantifies how much of the Q1 and Q2 results depend on the terrain correction.
+
 ## Checks (criteria fixed now)
 
 | Check | Pass if |
@@ -54,5 +58,7 @@ Any of these is a result and will be reported with numbers: the fading is mostly
 No field severity data straight after the fire (we study the spectral trace, not severity); April cloudiness leaves gaps; 20 m pixels blur edges and small unburnt islands; seven fires of one spring are not a regional sample; field points near paths are a biased sample.
 
 ## Changes
+
+**23 November 2026 — Q3 added (before any computation).** Same reason as the processing-level check below: lesson 5.3 showed the terrain correction changing B12 on our slopes as much as the atmospheric correction changes B2. Q3 turns that observation into a question with its own method and criterion (see Questions and Methods).
 
 **21 November 2026 — processing-level check added (before any computation).** Reason: in lesson 5.3 the same pixel of the 3 April 2026 image (lat 43.3468, lon −6.6746) gave, top of atmosphere (L1C) against bottom of atmosphere (L2A), B2 0.1213 → 0.0848 and B12 0.166 → 0.198. The B12 increase cannot come from atmospheric scattering; together with the visibly flattened slope shading in L2A it shows that the Sen2Cor terrain correction changes values on our slopes by an amount comparable to the atmospheric correction. Change: Q1 is computed a second time with both bands taken from L1C (top-of-atmosphere reflectance, no atmospheric or terrain correction), as a sensitivity check of the result to the L2A corrections. Bands from different processing levels are never mixed in one index. The main analysis stays on L2A; the criterion is in the Checks table.
