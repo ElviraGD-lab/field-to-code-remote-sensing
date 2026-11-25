@@ -1,13 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this book, please cite it as below."
 title: "From Field to Code: Remote Sensing from Scratch"
-type: book
+type: software
 authors:
   - family-names: Gayanova
     given-names: Elvira
     orcid: "https://orcid.org/0009-0002-4252-311X"
 license: CC-BY-4.0
 repository-code: "https://github.com/ElviraGD-lab/field-to-code-remote-sensing"
+url: "https://elviragd-lab.github.io/field-to-code-remote-sensing/"
 keywords:
   - remote sensing
   - Sentinel-2
