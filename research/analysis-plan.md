@@ -17,10 +17,11 @@ All EFFIS burnt areas in Asturias with a start date between 1 February and 30 Ap
 ## Data
 
 - Sentinel-2 L2A products (full SAFE, Copernicus Data Space Ecosystem); product names recorded for every image.
-- Q1 pair: 3 April 2026 (S2B) and 10 April 2026 (S2A), relative orbit R037, tiles 29TPH/29TPJ, processing baseline 05.12. 8 April 2026 kept as an alternative (two small clouds in the area of interest).
+- Q1 pair: 3 April 2026 (S2B) and 10 April 2026 (S2A), relative orbit R037, tile 29TPJ (the only tile that contains the whole burn), processing baseline 05.12. 8 April 2026 kept as an alternative (two small clouds in the area of interest).
+- Sentinel-2 L1C products of the same acquisitions (3 and 10 April 2026), for the processing-level check (Q1) and for Q3.
 - Q2 series: all clear observations February–November 2026 over each fire, and anniversary observations (same day of year ± 5 days) in 2024 and 2025 from the same relative orbit.
 - Terrain: PNOA MDT05 (CNIG), resampled to 20 m.
-- Reference: field points (planned 28–29 November 2026), Sentinel-2 10 m visual interpretation, PNOA orthophoto 2026 if available.
+- Reference: field points (planned for the first clear day between 5 and 12 December 2026), Sentinel-2 10 m visual interpretation, PNOA orthophoto 2026 if available.
 - Cloud screening: visual (Q1); CloudScore+ in Google Earth Engine (Q2). The L2A scene classification (SCL) is not used as the cloud mask, because on our scene it classes much of the burn scar as shadow.
 
 ## Methods
@@ -58,6 +59,8 @@ Any of these is a result and will be reported with numbers: the fading is mostly
 No field severity data straight after the fire (we study the spectral trace, not severity); April cloudiness leaves gaps; 20 m pixels blur edges and small unburnt islands; seven fires of one spring are not a regional sample; field points near paths are a biased sample.
 
 ## Changes
+
+**26 November 2026 — corrections to the Data section (no change to questions, methods or criteria).** (1) Tile: only 29TPJ is used; lesson 5.1 showed that 29TPH does not contain the whole burn. (2) The L1C products of 3 and 10 April 2026, already required by the processing-level check and by Q3, are now listed under Data. (3) Field date moved from 28–29 November to the first clear day between 5 and 12 December 2026, for time reasons; the field points are still collected before the Q1 accuracy assessment.
 
 **23 November 2026 — Q3 added (before any computation).** Same reason as the processing-level check below: lesson 5.3 showed the terrain correction changing B12 on our slopes as much as the atmospheric correction changes B2. Q3 turns that observation into a question with its own method and criterion (see Questions and Methods).
 
