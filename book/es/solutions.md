@@ -21,3 +21,9 @@ Respuestas a los ejercicios de cada lección.
 1. TOA es *top of atmosphere*, la reflectancia en la cima de la atmósfera, nivel L1C. BOA es *bottom of atmosphere*, la reflectancia en la superficie, nivel L2A.
 2. Es al revés. La que más se dispersa es la luz de onda corta, la azul, es decir, la banda B2. Las ondas largas, como las de B12, son las que menos se dispersan.
 3. En color natural, tanto lo quemado como la sombra se ven como una mancha oscura sobre fondo verde, porque en la luz visible los dos reflejan poco. Las bandas infrarrojas ayudan a distinguirlos. En SWIR, lo quemado sale marrón rojizo y la sombra, casi negra.
+
+## Lección 6.1
+
+1. Porque una misma reflectancia, con distintos min y max, da un brillo distinto en pantalla. La diferencia de color puede ser una diferencia de ajustes, y no del terreno. En nuestro caso, la reflectancia de B12 en un punto fuera de lo quemado se diferenciaba en un 3 %, y la bombilla azul, 2,6 veces.
+2. El brillo en pantalla depende del estiramiento. Para hablar de reflectancia hay que mirar los números en **Pixel Info** o en **Pin Manager**. O, antes, poner el mismo estiramiento en las dos imágenes.
+3. En el L1C, la reflectancia del suelo lleva mezclada luz de la atmósfera, y cada día en una cantidad distinta. Entonces, parte de la diferencia entre fechas sería una diferencia de tiempo atmosférico. En el L2A esa aportación está eliminada.

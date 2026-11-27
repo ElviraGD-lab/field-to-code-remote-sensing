@@ -40,6 +40,9 @@ project:
             - file: es/05-inside-the-file/01-downloading.md
             - file: es/05-inside-the-file/02-opening-in-snap.md
             - file: es/05-inside-the-file/03-atmosphere.md
+        - file: es/06-other-eyes/00-other-eyes.md
+          children:
+            - file: es/06-other-eyes/01-stretch.md
         - file: es/solutions.md
     - title: English
       children:
@@ -57,6 +60,9 @@ project:
             - file: en/05-inside-the-file/01-downloading.md
             - file: en/05-inside-the-file/02-opening-in-snap.md
             - file: en/05-inside-the-file/03-atmosphere.md
+        - file: en/06-other-eyes/00-other-eyes.md
+          children:
+            - file: en/06-other-eyes/01-stretch.md
         - file: en/solutions.md
 site:
   template: book-theme
